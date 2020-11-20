@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zachschneider.com/static/css/main.b6d7e54c.chunk.css",
-    "main.js": "/zachschneider.com/static/js/main.911c1431.chunk.js",
-    "main.js.map": "/zachschneider.com/static/js/main.911c1431.chunk.js.map",
+    "main.js": "/zachschneider.com/static/js/main.db88bb53.chunk.js",
+    "main.js.map": "/zachschneider.com/static/js/main.db88bb53.chunk.js.map",
     "runtime-main.js": "/zachschneider.com/static/js/runtime-main.d91fba9d.js",
     "runtime-main.js.map": "/zachschneider.com/static/js/runtime-main.d91fba9d.js.map",
     "static/js/2.772d805f.chunk.js": "/zachschneider.com/static/js/2.772d805f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d91fba9d.js",
     "static/js/2.772d805f.chunk.js",
     "static/css/main.b6d7e54c.chunk.css",
-    "static/js/main.911c1431.chunk.js"
+    "static/js/main.db88bb53.chunk.js"
   ]
 }
