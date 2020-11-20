@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zachschneider.com/static/css/main.b6d7e54c.chunk.css",
+    "main.js": "/zachschneider.com/static/js/main.911c1431.chunk.js",
+    "main.js.map": "/zachschneider.com/static/js/main.911c1431.chunk.js.map",
+    "runtime-main.js": "/zachschneider.com/static/js/runtime-main.d91fba9d.js",
+    "runtime-main.js.map": "/zachschneider.com/static/js/runtime-main.d91fba9d.js.map",
+    "static/js/2.772d805f.chunk.js": "/zachschneider.com/static/js/2.772d805f.chunk.js",
+    "static/js/2.772d805f.chunk.js.map": "/zachschneider.com/static/js/2.772d805f.chunk.js.map",
+    "static/js/3.dce124d7.chunk.js": "/zachschneider.com/static/js/3.dce124d7.chunk.js",
+    "static/js/3.dce124d7.chunk.js.map": "/zachschneider.com/static/js/3.dce124d7.chunk.js.map",
+    "index.html": "/zachschneider.com/index.html",
+    "static/css/main.b6d7e54c.chunk.css.map": "/zachschneider.com/static/css/main.b6d7e54c.chunk.css.map",
+    "static/js/2.772d805f.chunk.js.LICENSE.txt": "/zachschneider.com/static/js/2.772d805f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d91fba9d.js",
+    "static/js/2.772d805f.chunk.js",
+    "static/css/main.b6d7e54c.chunk.css",
+    "static/js/main.911c1431.chunk.js"
+  ]
+}
